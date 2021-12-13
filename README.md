@@ -13,6 +13,7 @@
         </header>
         
         <nav>
+            <main>
             <ul>
                 <li>
                     <a href="https://www.linkedin.com/in/michel-a-araujo-fern%C3%A1ndez-79a99961/">LinkedIn</a>  </li>
@@ -28,6 +29,6 @@
     <p>Esta website sirve para verificar mi perfil profesional</p>
     <p>Utilizaré esta web para agregar contenido acerca de mi</p>
     <p>PrivacyPolicies.com © Diciembre 2021 Reservados todos los derechos</p>
-
+            </main>
     </body>
 </html>
